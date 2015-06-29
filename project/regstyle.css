@@ -1,0 +1,39 @@
+body {
+	width: 100%;
+	height: 1080px;
+	
+}
+#wrapper {
+
+   width :100%;
+   height:1080px; 
+    background-image:url('images/reg.jpg');  
+}
+
+#wrapper #header {
+	width: 100%;
+	height: 300px;
+	
+
+}
+
+#wrapper #transbox {	
+	width: 100%;
+	height: 700px; 
+   
+   
+}
+#wrapper #transbox #registration {
+	
+	width: 45%;
+	height: 80%; 
+    background-color: #ffffff;
+    border: 2px solid black;
+    opacity: 0.6;
+
+
+}
+#wrapper #foetr {
+
+}
+
